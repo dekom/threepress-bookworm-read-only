@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/942/trunk/tests/atom_tests
+END
+data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/889/trunk/tests/atom_tests/data_test.py
+END
+token_store_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/740/trunk/tests/atom_tests/token_store_test.py
+END
+client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/848/trunk/tests/atom_tests/client_test.py
+END
+mock_server_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/348/trunk/tests/atom_tests/mock_server_test.py
+END
+http_interface_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/848/trunk/tests/atom_tests/http_interface_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/180/trunk/tests/atom_tests/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/737/trunk/tests/atom_tests/service_test.py
+END
+mock_http_core_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/912/trunk/tests/atom_tests/mock_http_core_test.py
+END
+auth_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/598/trunk/tests/atom_tests/auth_test.py
+END
+url_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/848/trunk/tests/atom_tests/url_test.py
+END
+http_core_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/942/trunk/tests/atom_tests/http_core_test.py
+END
+mock_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/740/trunk/tests/atom_tests/mock_client_test.py
+END
+core_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/848/trunk/tests/atom_tests/core_test.py
+END
+mock_http_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/740/trunk/tests/atom_tests/mock_http_test.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/699/trunk/tests/gdata_tests/books
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/699/trunk/tests/gdata_tests/books/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/699/trunk/tests/gdata_tests/books/service_test.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/exclude
+END
+basic.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/exclude/basic.rng
+END
+form.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/exclude/form.rng
+END
+basic-table.rng
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/exclude/basic-table.rng
+END

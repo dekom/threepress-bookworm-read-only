@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/861/trunk/bookworm/library/epub
+END
+epubcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/861/trunk/bookworm/library/epub/epubcheck.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/589/trunk/bookworm/library/epub/constants.py
+END
+namespaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/589/trunk/bookworm/library/epub/namespaces.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/589/trunk/bookworm/library/epub/__init__.py
+END
+toc.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/589/trunk/bookworm/library/epub/toc.py
+END

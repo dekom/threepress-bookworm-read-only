@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/394/trunk/tests/gdata_tests/photos
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/274/trunk/tests/gdata_tests/photos/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/394/trunk/tests/gdata_tests/photos/service_test.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/446/trunk/tests/gdata_tests/youtube
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/396/trunk/tests/gdata_tests/youtube/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/446/trunk/tests/gdata_tests/youtube/service_test.py
+END

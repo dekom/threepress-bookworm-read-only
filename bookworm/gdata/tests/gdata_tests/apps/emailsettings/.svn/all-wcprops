@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/986/trunk/tests/gdata_tests/apps/emailsettings
+END
+data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/986/trunk/tests/gdata_tests/apps/emailsettings/data_test.py
+END
+live_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/986/trunk/tests/gdata_tests/apps/emailsettings/live_client_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/552/trunk/tests/gdata_tests/apps/emailsettings/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/642/trunk/tests/gdata_tests/apps/emailsettings/service_test.py
+END

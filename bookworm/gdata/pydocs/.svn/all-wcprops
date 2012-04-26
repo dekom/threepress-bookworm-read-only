@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/980/trunk/pydocs
+END
+atom.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/980/trunk/pydocs/atom.client.html
+END
+gdata.dublincore.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/pydocs/gdata.dublincore.data.html
+END
+gdata.auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/980/trunk/pydocs/gdata.auth.html
+END
+gdata.apps.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.service.html
+END
+gdata.apps.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.html
+END
+atom.core.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/980/trunk/pydocs/atom.core.html
+END
+gdata.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/980/trunk/pydocs/gdata.data.html
+END
+gdata.geo.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/980/trunk/pydocs/gdata.geo.html
+END
+gdata.urlfetch.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/804/trunk/pydocs/gdata.urlfetch.html
+END
+atom.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/980/trunk/pydocs/atom.service.html
+END
+atom.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/980/trunk/pydocs/atom.html
+END
+gdata.books.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/980/trunk/pydocs/gdata.books.data.html
+END
+gdata.calendar_resource.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/980/trunk/pydocs/gdata.calendar_resource.data.html
+END
+gdata.exif.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/980/trunk/pydocs/gdata.exif.html
+END
+gdata.calendar_resource.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/980/trunk/pydocs/gdata.calendar_resource.client.html
+END
+gdata.blogger.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/980/trunk/pydocs/gdata.blogger.client.html
+END
+gdata.test_config_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/855/trunk/pydocs/gdata.test_config_template.html
+END
+gdata.opensearch.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/pydocs/gdata.opensearch.data.html
+END
+gdata.spreadsheet.text_db.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/980/trunk/pydocs/gdata.spreadsheet.text_db.html
+END
+gdata.analytics.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/980/trunk/pydocs/gdata.analytics.data.html
+END
+gdata.codesearch.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/980/trunk/pydocs/gdata.codesearch.service.html
+END
+gdata.codesearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/980/trunk/pydocs/gdata.codesearch.html
+END
+gdata.sites.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.sites.client.html
+END
+atom.mock_http.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/980/trunk/pydocs/atom.mock_http.html
+END
+gdata.calendar.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/980/trunk/pydocs/gdata.calendar.service.html
+END
+gdata.gauth.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/980/trunk/pydocs/gdata.gauth.html
+END
+gdata.calendar.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/980/trunk/pydocs/gdata.calendar.html
+END
+gdata.apps.adminsettings.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.adminsettings.service.html
+END
+gdata.finance.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.finance.data.html
+END
+gdata.apps.adminsettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.adminsettings.html
+END
+atom.token_store.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/980/trunk/pydocs/atom.token_store.html
+END
+gdata.blogger.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/pydocs/gdata.blogger.service.html
+END
+gdata.blogger.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/980/trunk/pydocs/gdata.blogger.html
+END
+atom.auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/980/trunk/pydocs/atom.auth.html
+END
+gdata.webmastertools.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/980/trunk/pydocs/gdata.webmastertools.data.html
+END
+gdata.alt.appengine.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/661/trunk/pydocs/gdata.alt.appengine.html
+END
+gdata.contacts.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/980/trunk/pydocs/gdata.contacts.data.html
+END
+gdata.analytics.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/980/trunk/pydocs/gdata.analytics.service.html
+END
+gdata.media.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/980/trunk/pydocs/gdata.media.data.html
+END
+gdata.analytics.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/980/trunk/pydocs/gdata.analytics.html
+END
+atom.mock_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/980/trunk/pydocs/atom.mock_service.html
+END
+atom.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/980/trunk/pydocs/atom.data.html
+END
+gdata.contacts.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/pydocs/gdata.contacts.client.html
+END
+gdata.finance.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/pydocs/gdata.finance.service.html
+END
+gdata.finance.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/980/trunk/pydocs/gdata.finance.html
+END
+gdata.health.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/980/trunk/pydocs/gdata.health.service.html
+END
+gdata.health.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/980/trunk/pydocs/gdata.health.html
+END
+gdata.acl.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/980/trunk/pydocs/gdata.acl.data.html
+END
+gdata.base.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.base.service.html
+END
+gdata.base.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/980/trunk/pydocs/gdata.base.html
+END
+gdata.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/980/trunk/pydocs/gdata.client.html
+END
+gdata.media.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/980/trunk/pydocs/gdata.media.html
+END
+atom.http_interface.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/980/trunk/pydocs/atom.http_interface.html
+END
+atom.mock_http_core.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/980/trunk/pydocs/atom.mock_http_core.html
+END
+gdata.calendar.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/980/trunk/pydocs/gdata.calendar.data.html
+END
+gdata.geo.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/980/trunk/pydocs/gdata.geo.data.html
+END
+gdata.docs.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.docs.service.html
+END
+gdata.docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/980/trunk/pydocs/gdata.docs.html
+END
+gdata.notebook.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/980/trunk/pydocs/gdata.notebook.data.html
+END
+gdata.blogger.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.blogger.data.html
+END
+gdata.youtube.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/980/trunk/pydocs/gdata.youtube.service.html
+END
+gdata.youtube.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/980/trunk/pydocs/gdata.youtube.html
+END
+gdata.sites.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/980/trunk/pydocs/gdata.sites.data.html
+END
+atom.http.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/980/trunk/pydocs/atom.http.html
+END
+gdata.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/980/trunk/pydocs/gdata.service.html
+END
+gdata.docs.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/980/trunk/pydocs/gdata.docs.data.html
+END
+gdata.html
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/980/trunk/pydocs/gdata.html
+END
+gdata.spreadsheets.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/980/trunk/pydocs/gdata.spreadsheets.data.html
+END
+gdata.youtube.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/980/trunk/pydocs/gdata.youtube.data.html
+END
+gdata.test_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/980/trunk/pydocs/gdata.test_config.html
+END
+gdata.analytics.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/980/trunk/pydocs/gdata.analytics.client.html
+END
+gdata.docs.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/980/trunk/pydocs/gdata.docs.client.html
+END
+gdata.spreadsheet.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/980/trunk/pydocs/gdata.spreadsheet.service.html
+END
+gdata.spreadsheets.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/980/trunk/pydocs/gdata.spreadsheets.client.html
+END
+atom.http_core.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/980/trunk/pydocs/atom.http_core.html
+END
+gdata.spreadsheet.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/980/trunk/pydocs/gdata.spreadsheet.html
+END
+gdata.maps.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/980/trunk/pydocs/gdata.maps.data.html
+END
+gdata.webmastertools.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/980/trunk/pydocs/gdata.webmastertools.service.html
+END
+gdata.apps.emailsettings.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.emailsettings.service.html
+END
+gdata.webmastertools.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/980/trunk/pydocs/gdata.webmastertools.html
+END
+gdata.apps.emailsettings.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.emailsettings.html
+END
+gdata.projecthosting.data.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/980/trunk/pydocs/gdata.projecthosting.data.html
+END
+gdata.photos.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/980/trunk/pydocs/gdata.photos.service.html
+END
+gdata.photos.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/980/trunk/pydocs/gdata.photos.html
+END
+gdata.books.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/980/trunk/pydocs/gdata.books.service.html
+END
+gdata.maps.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/980/trunk/pydocs/gdata.maps.client.html
+END
+gdata.books.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/980/trunk/pydocs/gdata.books.html
+END
+gdata.contacts.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/980/trunk/pydocs/gdata.contacts.service.html
+END
+gdata.contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/980/trunk/pydocs/gdata.contacts.html
+END
+gdata.projecthosting.client.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/980/trunk/pydocs/gdata.projecthosting.client.html
+END
+gdata.apps.groups.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.groups.service.html
+END
+generate_docs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/934/trunk/pydocs/generate_docs
+END
+gdata.apps.groups.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.groups.html
+END
+atom.url.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/980/trunk/pydocs/atom.url.html
+END
+gdata.apps.migration.service.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.migration.service.html
+END
+gdata.apps.migration.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/980/trunk/pydocs/gdata.apps.migration.html
+END

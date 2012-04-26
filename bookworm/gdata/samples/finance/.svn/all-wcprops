@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/997/trunk/samples/finance
+END
+test_finance.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/997/trunk/samples/finance/test_finance.py
+END

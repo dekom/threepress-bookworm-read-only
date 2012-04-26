@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/880/trunk/bookworm/library/templates/includes
+END
+news.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/589/trunk/bookworm/library/templates/includes/news.html
+END
+about_development.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/598/trunk/bookworm/library/templates/includes/about_development.html
+END
+openid.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/769/trunk/bookworm/library/templates/includes/openid.html
+END
+chapter_next_previous.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/598/trunk/bookworm/library/templates/includes/chapter_next_previous.html
+END
+subchapters.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/589/trunk/bookworm/library/templates/includes/subchapters.html
+END
+authors.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/880/trunk/bookworm/library/templates/includes/authors.html
+END
+meta.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/589/trunk/bookworm/library/templates/includes/meta.html
+END
+pagination.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/825/trunk/bookworm/library/templates/includes/pagination.html
+END
+document_list_controls.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/593/trunk/bookworm/library/templates/includes/document_list_controls.html
+END
+leftnav.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/665/trunk/bookworm/library/templates/includes/leftnav.html
+END
+feedbooks.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/825/trunk/bookworm/library/templates/includes/feedbooks.html
+END
+reload.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/727/trunk/bookworm/library/templates/includes/reload.html
+END
+reading-tools.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/610/trunk/bookworm/library/templates/includes/reading-tools.html
+END
+document_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/667/trunk/bookworm/library/templates/includes/document_list.html
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/643/trunk/bookworm/library/templates/includes/about.html
+END
+toggle-reading-mode.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/627/trunk/bookworm/library/templates/includes/toggle-reading-mode.html
+END

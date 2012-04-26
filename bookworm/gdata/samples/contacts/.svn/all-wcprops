@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/997/trunk/samples/contacts
+END
+contacts_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/997/trunk/samples/contacts/contacts_example.py
+END
+profiles_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/997/trunk/samples/contacts/profiles_example.py
+END

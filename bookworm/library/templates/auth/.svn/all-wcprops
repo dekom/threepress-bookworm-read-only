@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/880/trunk/bookworm/library/templates/auth
+END
+profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/library/templates/auth/profile.html
+END
+language.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/773/trunk/bookworm/library/templates/auth/language.html
+END

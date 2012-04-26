@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/909/trunk/bookworm
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/589/trunk/bookworm/manage.py
+END
+clear-db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/589/trunk/bookworm/clear-db.sh
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/742/trunk/bookworm/ez_setup.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/589/trunk/bookworm/__init__.py
+END
+test_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/875/trunk/bookworm/test_settings.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/895/trunk/bookworm/settings.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/825/trunk/bookworm/setup.py
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/592/trunk/bookworm/.svnignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/880/trunk/bookworm/README
+END
+database-backup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/589/trunk/bookworm/database-backup.py
+END
+db-upgrade-2008-04-03.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/645/trunk/bookworm/db-upgrade-2008-04-03.sql
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/754/trunk/bookworm/README.html
+END
+runner.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/825/trunk/bookworm/runner.py
+END
+fix-locale-strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/735/trunk/bookworm/fix-locale-strings.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/623/trunk/bookworm/middleware.py
+END
+migrate-user-archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/589/trunk/bookworm/migrate-user-archive.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/880/trunk/bookworm/urls.py
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/589/trunk/bookworm/run.sh
+END
+test_settings_mobile.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/825/trunk/bookworm/test_settings_mobile.py
+END
+settings_mobile.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/825/trunk/bookworm/settings_mobile.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/825/trunk/bookworm/runtests.py
+END

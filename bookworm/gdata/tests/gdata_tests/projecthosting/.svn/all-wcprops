@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/872/trunk/tests/gdata_tests/projecthosting
+END
+data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/872/trunk/tests/gdata_tests/projecthosting/data_test.py
+END
+live_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/859/trunk/tests/gdata_tests/projecthosting/live_client_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/859/trunk/tests/gdata_tests/projecthosting/__init__.py
+END

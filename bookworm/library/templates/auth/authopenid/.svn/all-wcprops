@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/library/templates/auth/authopenid
+END
+changepw.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/598/trunk/bookworm/library/templates/auth/authopenid/changepw.html
+END
+changeemail.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/changeemail.html
+END
+confirm_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/confirm_email.txt
+END
+sendpw.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/sendpw.html
+END
+settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/settings.html
+END
+delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/delete.html
+END
+sendpw_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/sendpw_email.txt
+END
+changeopenid.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/changeopenid.html
+END
+signup.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/signup.html
+END
+signin.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/880/trunk/bookworm/library/templates/auth/authopenid/signin.html
+END
+failure.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/589/trunk/bookworm/library/templates/auth/authopenid/failure.html
+END
+complete.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/695/trunk/bookworm/library/templates/auth/authopenid/complete.html
+END

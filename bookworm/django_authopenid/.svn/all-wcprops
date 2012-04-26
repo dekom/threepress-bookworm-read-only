@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/825/trunk/bookworm/django_authopenid
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/589/trunk/bookworm/django_authopenid/views.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/589/trunk/bookworm/django_authopenid/util.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/589/trunk/bookworm/django_authopenid/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/589/trunk/bookworm/django_authopenid/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/589/trunk/bookworm/django_authopenid/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/788/trunk/bookworm/django_authopenid/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/825/trunk/bookworm/django_authopenid/forms.py
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/895/trunk/bookworm/library/templates
+END
+last-read.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/667/trunk/bookworm/library/templates/last-read.html
+END
+upload_success.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/589/trunk/bookworm/library/templates/upload_success.html
+END
+openid.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/876/trunk/bookworm/library/templates/openid.html
+END
+public.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/895/trunk/bookworm/library/templates/public.html
+END
+render.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/589/trunk/bookworm/library/templates/render.html
+END
+rpc_relay.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/589/trunk/bookworm/library/templates/rpc_relay.html
+END
+upload.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/895/trunk/bookworm/library/templates/upload.html
+END
+help.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/895/trunk/bookworm/library/templates/help.html
+END
+tour.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/876/trunk/bookworm/library/templates/tour.html
+END
+epub.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/880/trunk/bookworm/library/templates/epub.html
+END
+reading-mode.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/876/trunk/bookworm/library/templates/reading-mode.html
+END
+sitedown.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/876/trunk/bookworm/library/templates/sitedown.html
+END
+ebooktesting.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/876/trunk/bookworm/library/templates/ebooktesting.html
+END
+host-header.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/874/trunk/bookworm/library/templates/host-header.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/876/trunk/bookworm/library/templates/500.html
+END
+shell.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/880/trunk/bookworm/library/templates/shell.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/773/trunk/bookworm/library/templates/404.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/876/trunk/bookworm/library/templates/index.html
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/895/trunk/bookworm/library/templates/about.html
+END
+view.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/880/trunk/bookworm/library/templates/view.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/610/trunk/bookworm/library/templates/base.html
+END
+canvas.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/589/trunk/bookworm/library/templates/canvas.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/909/trunk/bookworm/library
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/890/trunk/bookworm/library/admin.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/909/trunk/bookworm/library/views.py
+END
+test_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/880/trunk/bookworm/library/test_helper.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/589/trunk/bookworm/library/__init__.py
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/589/trunk/bookworm/library/.svnignore
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/903/trunk/bookworm/library/tests.py
+END
+testmodels.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/589/trunk/bookworm/library/testmodels.py
+END
+load-test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/589/trunk/bookworm/library/load-test.txt
+END
+smtp.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/589/trunk/bookworm/library/smtp.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/907/trunk/bookworm/library/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/906/trunk/bookworm/library/urls.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/895/trunk/bookworm/library/context_processors.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/669/trunk/bookworm/library/forms.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/589/trunk/bookworm/library/index.py
+END

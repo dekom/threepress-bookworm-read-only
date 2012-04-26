@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/552/trunk/tests/gdata_tests/apps/migration
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/552/trunk/tests/gdata_tests/apps/migration/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/551/trunk/tests/gdata_tests/apps/migration/service_test.py
+END

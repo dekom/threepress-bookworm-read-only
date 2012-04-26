@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/880/trunk/bookworm/api/templates/api
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/880/trunk/bookworm/api/templates/api/base.html
+END
+list.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/880/trunk/bookworm/api/templates/api/list.html
+END

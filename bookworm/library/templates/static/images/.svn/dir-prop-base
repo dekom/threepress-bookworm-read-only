@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 74
+*.pyc
+*~
+*.swp
+.DS_Store
+clear.sql
+#*
+storage
+dbs
+*storage*
+*flymake*
+log
+
+END

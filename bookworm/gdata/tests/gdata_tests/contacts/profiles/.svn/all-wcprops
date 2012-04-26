@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/962/trunk/tests/gdata_tests/contacts/profiles
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/830/trunk/tests/gdata_tests/contacts/profiles/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/962/trunk/tests/gdata_tests/contacts/profiles/service_test.py
+END

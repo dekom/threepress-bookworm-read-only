@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/903/trunk/bookworm/library/test-data
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/__init__.py
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/.svnignore
+END

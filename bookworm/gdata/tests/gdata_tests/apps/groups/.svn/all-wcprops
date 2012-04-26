@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/667/trunk/tests/gdata_tests/apps/groups
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/655/trunk/tests/gdata_tests/apps/groups/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/667/trunk/tests/gdata_tests/apps/groups/service_test.py
+END

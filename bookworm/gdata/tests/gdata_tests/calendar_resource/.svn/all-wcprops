@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/984/trunk/tests/gdata_tests/calendar_resource
+END
+data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/984/trunk/tests/gdata_tests/calendar_resource/data_test.py
+END
+live_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/971/trunk/tests/gdata_tests/calendar_resource/live_client_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/922/trunk/tests/gdata_tests/calendar_resource/__init__.py
+END

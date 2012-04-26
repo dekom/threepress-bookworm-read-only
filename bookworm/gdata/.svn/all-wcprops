@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/1007/trunk
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/227/trunk/INSTALL.txt
+END
+upload-diffs.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/998/trunk/upload-diffs.py
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/959/trunk/MANIFEST
+END
+RELEASE_NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/981/trunk/RELEASE_NOTES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/981/trunk/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/990/trunk/README.txt
+END

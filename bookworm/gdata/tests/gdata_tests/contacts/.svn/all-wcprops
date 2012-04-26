@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/962/trunk/tests/gdata_tests/contacts
+END
+live_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/892/trunk/tests/gdata_tests/contacts/live_client_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/334/trunk/tests/gdata_tests/contacts/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/835/trunk/tests/gdata_tests/contacts/service_test.py
+END

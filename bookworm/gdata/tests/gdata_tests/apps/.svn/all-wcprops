@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/986/trunk/tests/gdata_tests/apps
+END
+AppsServiceTestForGetGeneratorForAllEmailLists.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/861/trunk/tests/gdata_tests/apps/AppsServiceTestForGetGeneratorForAllEmailLists.pickle
+END
+AppsServiceTestForGetGeneratorForAllNicknames.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/861/trunk/tests/gdata_tests/apps/AppsServiceTestForGetGeneratorForAllNicknames.pickle
+END
+service_test_using_mock.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/860/trunk/tests/gdata_tests/apps/service_test_using_mock.py
+END
+TestDataForGeneratorTest.p
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/360/trunk/tests/gdata_tests/apps/TestDataForGeneratorTest.p
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/180/trunk/tests/gdata_tests/apps/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/394/trunk/tests/gdata_tests/apps/service_test.py
+END
+AppsServiceTestForGetGeneratorForAllUsers.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/861/trunk/tests/gdata_tests/apps/AppsServiceTestForGetGeneratorForAllUsers.pickle
+END
+AppsServiceTestForGetGeneratorForAllRecipients.pickle
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/861/trunk/tests/gdata_tests/apps/AppsServiceTestForGetGeneratorForAllRecipients.pickle
+END

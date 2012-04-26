@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/903/trunk/bookworm/library/test-data/data
+END
+halála.epub
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/747/trunk/bookworm/library/test-data/data/hal%C3%A1la.epub
+END
+invalid-no-findable-toc.epub
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid-no-findable-toc.epub
+END
+html-entities.epub
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/html-entities.epub
+END
+duplicate-css-in-opf.epub
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/903/trunk/bookworm/library/test-data/data/duplicate-css-in-opf.epub
+END
+complex-ncx.ncx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/complex-ncx.ncx
+END
+天.epub
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/%E5%A4%A9.epub
+END
+duplicate-itemref.epub
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/duplicate-itemref.epub
+END
+no-toc-attribute-in-spine.opf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-toc-attribute-in-spine.opf
+END
+alice2.gif
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/alice2.gif
+END
+multiple-dc-dates.epub
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/603/trunk/bookworm/library/test-data/data/multiple-dc-dates.epub
+END
+invalid-no-namespaced-container.epub
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid-no-namespaced-container.epub
+END
+invalid-rights-managed.epub
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid-rights-managed.epub
+END
+no-toc-attribute-in-spine.epub
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-toc-attribute-in-spine.epub
+END
+tiny.epub
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/tiny.epub
+END
+invalid-no-toc.epub
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid-no-toc.epub
+END
+invalid_no_container.epub
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid_no_container.epub
+END
+no-toc-item.opf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-toc-item.opf
+END
+too-many-styles.epub
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/871/trunk/bookworm/library/test-data/data/too-many-styles.epub
+END
+no-title.opf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-title.opf
+END
+two-authors.opf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/two-authors.opf
+END
+top-level-toc.ncx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/top-level-toc.ncx
+END
+flash-video.epub
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/898/trunk/bookworm/library/test-data/data/flash-video.epub
+END
+no-toc-attribute-in-spine-incorrect-media-type.epub
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-toc-attribute-in-spine-incorrect-media-type.epub
+END
+invalid_天.epub
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid_%E5%A4%A9.epub
+END
+alice-fromAdobe.epub
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/alice-fromAdobe.epub
+END
+Cory_Doctorow_-_Little_Brother.epub
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/Cory_Doctorow_-_Little_Brother.epub
+END
+test.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/test.css
+END
+invalid-no-spine.epub
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/610/trunk/bookworm/library/test-data/data/invalid-no-spine.epub
+END
+No-Author.epub
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/No-Author.epub
+END
+auxilliary-lists.ncx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/auxilliary-lists.ncx
+END
+linear-no.opf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/linear-no.opf
+END
+invalid-xhtml.epub
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid-xhtml.epub
+END
+alice01a.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/alice01a.gif
+END
+images-with-spaces.epub
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/730/trunk/bookworm/library/test-data/data/images-with-spaces.epub
+END
+linear-no-missing-linear.opf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/linear-no-missing-linear.opf
+END
+invalid-iso88591.epub
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/722/trunk/bookworm/library/test-data/data/invalid-iso88591.epub
+END
+non-screen-css.epub
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/890/trunk/bookworm/library/test-data/data/non-screen-css.epub
+END
+blank-title.opf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/blank-title.opf
+END
+space-in-filenames.epub
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/893/trunk/bookworm/library/test-data/data/space-in-filenames.epub
+END
+style-in-head.epub
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/731/trunk/bookworm/library/test-data/data/style-in-head.epub
+END
+opf-in-subdirectory.epub
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/opf-in-subdirectory.epub
+END
+EPUBBestPractices-1_0_2.epub
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/EPUBBestPractices-1_0_2.epub
+END
+Pride-and-Prejudice_Jane-Austen.epub
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/Pride-and-Prejudice_Jane-Austen.epub
+END
+video.epub
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/895/trunk/bookworm/library/test-data/data/video.epub
+END
+hauy.epub
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/hauy.epub
+END
+dc-description.epub
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/dc-description.epub
+END
+single-lang-metadata.opf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/single-lang-metadata.opf
+END
+no-playorder.ncx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-playorder.ncx
+END
+Bible.epub
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/Bible.epub
+END
+all-metadata.opf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/all-metadata.opf
+END
+unsafe-javascript-link.epub
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/trunk/bookworm/library/test-data/data/unsafe-javascript-link.epub
+END
+The-Adventures-of-Sherlock-Holmes_Arthur-Conan-Doyle.epub
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/The-Adventures-of-Sherlock-Holmes_Arthur-Conan-Doyle.epub
+END
+missing-image.epub
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/missing-image.epub
+END
+slash-in-title.epub
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/892/trunk/bookworm/library/test-data/data/slash-in-title.epub
+END
+zero-length-images.epub
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/902/trunk/bookworm/library/test-data/data/zero-length-images.epub
+END
+duplicate-images-in-opf.epub
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/728/trunk/bookworm/library/test-data/data/duplicate-images-in-opf.epub
+END
+itemref-points-nowhere.opf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/itemref-points-nowhere.opf
+END
+test-single-listing.epub
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/test-single-listing.epub
+END
+no-author.opf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-author.opf
+END
+OPS.svg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/OPS.svg
+END
+invalid-no-title.epub
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/invalid-no-title.epub
+END
+no-toc-itemref.opf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/no-toc-itemref.opf
+END
+css-in-subdir.epub
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/879/trunk/bookworm/library/test-data/data/css-in-subdir.epub
+END
+top-level-toc.opf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/589/trunk/bookworm/library/test-data/data/top-level-toc.opf
+END

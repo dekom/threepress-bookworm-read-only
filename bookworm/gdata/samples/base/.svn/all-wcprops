@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/997/trunk/samples/base
+END
+dryRunInsert.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/997/trunk/samples/base/dryRunInsert.py
+END
+baseQueryExample.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/997/trunk/samples/base/baseQueryExample.py
+END
+baseItemTypesQueryExample.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/997/trunk/samples/base/baseItemTypesQueryExample.py
+END
+baseAttributesQueryExample.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/997/trunk/samples/base/baseAttributesQueryExample.py
+END

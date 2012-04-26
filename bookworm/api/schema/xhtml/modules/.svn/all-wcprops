@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules
+END
+datatypes.rng
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/datatypes.rng
+END
+csismap.rng
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/csismap.rng
+END
+param.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/param.rng
+END
+inlstyle.rng
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/inlstyle.rng
+END
+events.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/events.rng
+END
+pres.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/pres.rng
+END
+list.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/list.rng
+END
+ssismap.rng
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/ssismap.rng
+END
+basic-form.rng
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/basic-form.rng
+END
+struct.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/struct.rng
+END
+edit.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/edit.rng
+END
+target.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/target.rng
+END
+table.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/table.rng
+END
+hypertext.rng
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/hypertext.rng
+END
+link.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/link.rng
+END
+style.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/style.rng
+END
+form.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/form.rng
+END
+iframe.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/iframe.rng
+END
+legacy.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/legacy.rng
+END
+bdo.rng
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/bdo.rng
+END
+script.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/script.rng
+END
+nameident.rng
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/nameident.rng
+END
+object.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/object.rng
+END
+basic-table.rng
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/basic-table.rng
+END
+attribs.rng
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/attribs.rng
+END
+base.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/base.rng
+END
+frames.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/frames.rng
+END
+ruby.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/ruby.rng
+END
+image.rng
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/image.rng
+END
+text.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/text.rng
+END
+applet.rng
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/applet.rng
+END
+meta.rng
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/880/trunk/bookworm/api/schema/xhtml/modules/meta.rng
+END

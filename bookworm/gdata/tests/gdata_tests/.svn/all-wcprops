@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1004/trunk/tests/gdata_tests
+END
+youtube_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/394/trunk/tests/gdata_tests/youtube_test.py
+END
+live_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1004/trunk/tests/gdata_tests/live_client_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/180/trunk/tests/gdata_tests/__init__.py
+END
+codesearch_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/256/trunk/tests/gdata_tests/codesearch_test.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/848/trunk/tests/gdata_tests/service_test.py
+END
+auth_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/728/trunk/tests/gdata_tests/auth_test.py
+END
+apps_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/584/trunk/tests/gdata_tests/apps_test.py
+END
+health_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/637/trunk/tests/gdata_tests/health_test.py
+END
+spreadsheet_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/828/trunk/tests/gdata_tests/spreadsheet_test.py
+END
+data_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/901/trunk/tests/gdata_tests/data_smoke_test.py
+END
+gauth_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/942/trunk/tests/gdata_tests/gauth_test.py
+END
+data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/954/trunk/tests/gdata_tests/data_test.py
+END
+calendar_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/910/trunk/tests/gdata_tests/calendar_test.py
+END
+webmastertools_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/848/trunk/tests/gdata_tests/webmastertools_test.py
+END
+base_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/343/trunk/tests/gdata_tests/base_test.py
+END
+photos_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/239/trunk/tests/gdata_tests/photos_test.py
+END
+client_smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/986/trunk/tests/gdata_tests/client_smoke_test.py
+END
+books_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/880/trunk/tests/gdata_tests/books_test.py
+END
+contacts_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/797/trunk/tests/gdata_tests/contacts_test.py
+END
+sample_util_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/848/trunk/tests/gdata_tests/sample_util_test.py
+END
+client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/915/trunk/tests/gdata_tests/client_test.py
+END
+blogger_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/574/trunk/tests/gdata_tests/blogger_test.py
+END
+resumable_upload_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/944/trunk/tests/gdata_tests/resumable_upload_test.py
+END
+docs_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/670/trunk/tests/gdata_tests/docs_test.py
+END
+core_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/947/trunk/tests/gdata_tests/core_test.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/997/trunk/samples/docs
+END
+docs_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/997/trunk/samples/docs/docs_example.py
+END
+resumable_upload_sample.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/997/trunk/samples/docs/resumable_upload_sample.py
+END

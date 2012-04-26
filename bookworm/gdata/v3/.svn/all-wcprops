@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/1002/trunk/v3
+END
+apiclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1002/trunk/v3/apiclient.py
+END
+oauth_wrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/991/trunk/v3/oauth_wrap.py
+END
+uritemplate.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/991/trunk/v3/uritemplate.py
+END
+oauth_token.dat
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/991/trunk/v3/oauth_token.dat
+END
+sample.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1002/trunk/v3/sample.py
+END
+three-legged-dance.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/991/trunk/v3/three-legged-dance.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/991/trunk/v3/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/1002/trunk/v3/Makefile
+END

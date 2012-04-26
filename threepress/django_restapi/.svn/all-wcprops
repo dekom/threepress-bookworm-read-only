@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/283/trunk/threepress/django_restapi
+END
+resource.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/283/trunk/threepress/django_restapi/resource.pyc
+END
+model_resource.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/283/trunk/threepress/django_restapi/model_resource.pyc
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/283/trunk/threepress/django_restapi/authentication.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/283/trunk/threepress/django_restapi/__init__.py
+END
+responder.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/283/trunk/threepress/django_restapi/responder.py
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/283/trunk/threepress/django_restapi/__init__.pyc
+END
+authentication.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/283/trunk/threepress/django_restapi/authentication.pyc
+END
+receiver.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/283/trunk/threepress/django_restapi/receiver.py
+END
+responder.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/283/trunk/threepress/django_restapi/responder.pyc
+END
+receiver.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/283/trunk/threepress/django_restapi/receiver.pyc
+END
+resource.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/283/trunk/threepress/django_restapi/resource.py
+END
+model_resource.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/283/trunk/threepress/django_restapi/model_resource.py
+END

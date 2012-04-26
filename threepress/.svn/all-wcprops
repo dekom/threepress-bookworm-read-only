@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/368/trunk/threepress
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/threepress/manage.py
+END
+clear-db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/threepress/clear-db.sh
+END
+clear.sql
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/216/trunk/threepress/clear.sql
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/threepress/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/363/trunk/threepress/settings.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/threepress/setup.py
+END
+test.epub
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/309/trunk/threepress/test.epub
+END
+load-flatpages.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/40/trunk/threepress/load-flatpages.py
+END
+smoke.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/309/trunk/threepress/smoke.txt
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/363/trunk/threepress/urls.py
+END
+load-for-search.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/102/trunk/threepress/load-for-search.py
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/216/trunk/threepress/run.sh
+END
+database-backup.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/85/trunk/threepress/database-backup.py
+END
+load-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/113/trunk/threepress/load-all.sh
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/997/trunk/samples/blogger/oauth-appengine
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/997/trunk/samples/blogger/oauth-appengine/app.yaml
+END
+oauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/997/trunk/samples/blogger/oauth-appengine/oauth.py
+END
+index.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/997/trunk/samples/blogger/oauth-appengine/index.yaml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/997/trunk/samples/blogger/oauth-appengine/index.html
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/997/trunk/samples/blogger/oauth-appengine/main.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/940/trunk/tests/gdata_tests/docs
+END
+data_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/940/trunk/tests/gdata_tests/docs/data_test.py
+END
+test.ppt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/625/trunk/tests/gdata_tests/docs/test.ppt
+END
+test.doc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/625/trunk/tests/gdata_tests/docs/test.doc
+END
+live_client_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/881/trunk/tests/gdata_tests/docs/live_client_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/180/trunk/tests/gdata_tests/docs/__init__.py
+END
+service_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/938/trunk/tests/gdata_tests/docs/service_test.py
+END
+test.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/881/trunk/tests/gdata_tests/docs/test.pdf
+END
+test.csv
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/625/trunk/tests/gdata_tests/docs/test.csv
+END

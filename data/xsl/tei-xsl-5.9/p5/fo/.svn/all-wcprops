@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/77/trunk/data/xsl/tei-xsl-5.9/p5/fo
+END
+linking.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/linking.xsl
+END
+corpus.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/corpus.xsl
+END
+transcr.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/transcr.xsl
+END
+tei-param.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/tei-param.xsl
+END
+tei.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/tei.xsl
+END
+namesdates.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/namesdates.xsl
+END
+tagdocs.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/tagdocs.xsl
+END
+drama.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/drama.xsl
+END
+verse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/verse.xsl
+END
+figures.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/figures.xsl
+END
+textstructure.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/textstructure.xsl
+END
+tei-makecolspec.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/tei-makecolspec.xsl
+END
+core.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/core.xsl
+END
+header.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/data/xsl/tei-xsl-5.9/p5/fo/header.xsl
+END

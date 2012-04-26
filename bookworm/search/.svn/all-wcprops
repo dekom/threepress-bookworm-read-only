@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/880/trunk/bookworm/search
+END
+epubindexer.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/609/trunk/bookworm/search/epubindexer.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/589/trunk/bookworm/search/constants.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/589/trunk/bookworm/search/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/589/trunk/bookworm/search/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/589/trunk/bookworm/search/settings.py
+END
+.svnignore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/589/trunk/bookworm/search/.svnignore
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/762/trunk/bookworm/search/urls.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/593/trunk/bookworm/search/context_processors.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/589/trunk/bookworm/search/forms.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/825/trunk/bookworm/search/index.py
+END

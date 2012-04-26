@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/779/trunk/bookworm/library/templates/host
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/779/trunk/bookworm/library/templates/host/__init__.py
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/778/trunk/bookworm/library/templates/host/header.html
+END

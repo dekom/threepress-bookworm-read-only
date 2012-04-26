@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/997/trunk/samples/blogger/app
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/997/trunk/samples/blogger/app/app.yaml
+END
+list_blogs.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/997/trunk/samples/blogger/app/list_blogs.html
+END
+auth_required.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/997/trunk/samples/blogger/app/auth_required.html
+END
+blogapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/997/trunk/samples/blogger/app/blogapp.py
+END
+post_editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/997/trunk/samples/blogger/app/post_editor.html
+END
+welcome.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/997/trunk/samples/blogger/app/welcome.html
+END

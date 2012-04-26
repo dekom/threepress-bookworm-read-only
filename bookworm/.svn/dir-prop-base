@@ -1,0 +1,27 @@
+K 13
+svn:externals
+V 214
+minidetector http://minidetector.googlecode.com/svn/trunk/minidetector
+gdata http://gdata-python-client.googlecode.com/svn/trunk/
+django_evolution http://django-evolution.googlecode.com/svn/trunk/django_evolution 
+
+K 10
+svn:ignore
+V 74
+*.pyc
+*~
+*.swp
+.DS_Store
+clear.sql
+#*
+storage
+dbs
+*storage*
+*flymake*
+log
+
+K 13
+svn:mergeinfo
+V 30
+/branches/bookworm-api:831-878
+END

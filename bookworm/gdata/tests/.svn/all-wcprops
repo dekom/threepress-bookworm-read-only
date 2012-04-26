@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/1004/trunk/tests
+END
+all_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/986/trunk/tests/all_tests.py
+END
+testimage.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/179/trunk/tests/testimage.jpg
+END
+coverage.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/598/trunk/tests/coverage.py
+END
+module_test_runner.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/180/trunk/tests/module_test_runner.py
+END
+run_all_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/180/trunk/tests/run_all_tests.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/127/trunk/tests/__init__.py
+END
+atom_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/848/trunk/tests/atom_test.py
+END
+run_data_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/986/trunk/tests/run_data_tests.py
+END
+gdata_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/848/trunk/tests/gdata_test.py
+END
+all_tests_cached.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/835/trunk/tests/all_tests_cached.py
+END
+all_tests_clear_cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/791/trunk/tests/all_tests_clear_cache.py
+END
+all_tests_local.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/960/trunk/tests/all_tests_local.py
+END
+all_tests_coverage.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/947/trunk/tests/all_tests_coverage.py
+END
+run_service_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/853/trunk/tests/run_service_tests.py
+END

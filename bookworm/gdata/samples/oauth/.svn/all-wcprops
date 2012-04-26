@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/997/trunk/samples/oauth
+END
+2_legged_oauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/997/trunk/samples/oauth/2_legged_oauth.py
+END
+oauth_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/997/trunk/samples/oauth/oauth_example.py
+END
+TwoLeggedOAuthExample.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/997/trunk/samples/oauth/TwoLeggedOAuthExample.py
+END
